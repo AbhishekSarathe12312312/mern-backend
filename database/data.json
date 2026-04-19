@@ -1,0 +1,142 @@
+[
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "iPhone 15 Pro",
+    "productDesc": "Latest Apple smartphone with A17 Bionic chip",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1696642575644-834089020c0d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHVybHxlbnwwfHwwfHx8MA%3D%3D",
+        "public_id": "iphone15_1"
+      }
+    ],
+    "productPrice": 120000,
+    "category": "Smartphones",
+    "brand": "Apple"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Samsung Galaxy S23",
+    "productDesc": "Flagship Samsung smartphone with AMOLED display",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1670945715444-1f25b0a6e44e?auto=format&fit=crop&w=500&q=80",
+        "public_id": "galaxys23_1"
+      }
+    ],
+    "productPrice": 95000,
+    "category": "Smartphones",
+    "brand": "Samsung"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "MacBook Air M2",
+    "productDesc": "Apple laptop with M2 chip, 16GB RAM",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1587825140708-2d1d13a9cda0?auto=format&fit=crop&w=500&q=80",
+        "public_id": "macbookair_1"
+      }
+    ],
+    "productPrice": 150000,
+    "category": "Laptops",
+    "brand": "Apple"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Dell XPS 13",
+    "productDesc": "High-performance laptop with Intel i7",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1612831455543-c1f51b6e0b3f?auto=format&fit=crop&w=500&q=80",
+        "public_id": "dellxps13_1"
+      }
+    ],
+    "productPrice": 135000,
+    "category": "Laptops",
+    "brand": "Dell"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Sony WH-1000XM5",
+    "productDesc": "Wireless noise-cancelling headphones",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1606813903423-43b41e9a1551?auto=format&fit=crop&w=500&q=80",
+        "public_id": "sonywh1000xm5_1"
+      }
+    ],
+    "productPrice": 35000,
+    "category": "Headphones",
+    "brand": "Sony"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Bose QuietComfort 45",
+    "productDesc": "Premium noise-cancelling over-ear headphones",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1611945798576-2d6cc872f2d1?auto=format&fit=crop&w=500&q=80",
+        "public_id": "boseqc45_1"
+      }
+    ],
+    "productPrice": 32000,
+    "category": "Headphones",
+    "brand": "Bose"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Apple Watch Series 9",
+    "productDesc": "Latest Apple smartwatch with health tracking",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1587825140720-18fca4c01f3c?auto=format&fit=crop&w=500&q=80",
+        "public_id": "applewatch9_1"
+      }
+    ],
+    "productPrice": 45000,
+    "category": "Wearables",
+    "brand": "Apple"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Samsung Galaxy Watch 6",
+    "productDesc": "Smartwatch with AMOLED display and fitness tracking",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1598970434795-0c54fe7c0642?auto=format&fit=crop&w=500&q=80",
+        "public_id": "galaxywatch6_1"
+      }
+    ],
+    "productPrice": 40000,
+    "category": "Wearables",
+    "brand": "Samsung"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Google Pixel 8",
+    "productDesc": "Flagship Google phone with best camera",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1682685798102-cf0d82a8b2a4?auto=format&fit=crop&w=500&q=80",
+        "public_id": "pixel8_1"
+      }
+    ],
+    "productPrice": 85000,
+    "category": "Smartphones",
+    "brand": "Google"
+  },
+  {
+    "userId": "641a1b2c3d4e5f6789012345",
+    "productName": "Lenovo Legion 5",
+    "productDesc": "Gaming laptop with AMD Ryzen 7",
+    "productImg": [
+      {
+        "url": "https://images.unsplash.com/photo-1600020801936-2f7eb4d71df0?auto=format&fit=crop&w=500&q=80",
+        "public_id": "legion5_1"
+      }
+    ],
+    "productPrice": 125000,
+    "category": "Laptops",
+    "brand": "Lenovo"
+  }
+]
